@@ -61,7 +61,7 @@ git clone https://github.com/Vaishnaviram1026/MSBA265
 Navigate into the project:
 
 ```bash
-cd MSBA265/module1
+cd MSBA265/msba265_module1_Vaishnavi
 ```
 
 ## 3. Create and Activate the Virtual Environment
