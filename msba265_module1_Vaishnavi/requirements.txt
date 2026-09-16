@@ -1,0 +1,19 @@
+# Data Science
+numpy==2.5.2
+pandas==3.0.5
+scipy==1.18.1
+
+# Data Visualization
+matplotlib==3.11.1
+seaborn==0.13.2
+
+# Web / API / Data Collection
+requests==2.34.2
+httpx==0.28.1
+beautifulsoup4==4.15.0
+
+# Image Processing
+pillow==12.3.0
+
+# Configuration / Data Formats
+PyYAML==6.0.3
